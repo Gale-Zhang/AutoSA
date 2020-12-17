@@ -31,7 +31,7 @@ src/*.o
 src/.vscode
 src/autosa
 src/tags
-
+test
 autosa
 autosa.tmp
 .nfs*
